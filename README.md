@@ -12,11 +12,19 @@ VERY IMPORTANT THING: Websites that allow users to upload fonts are moved up a r
 There are 5 base ratings with 4 in between. These are:
 
 N - Minimal
+
 NL - Minimal-Low
+
 L - Low
+
 LM - Low-Medium
+
 M - Medium
+
 MH - Medium-High
+
 H - High
+
 HX - High-Extreme
+
 X - Extreme
