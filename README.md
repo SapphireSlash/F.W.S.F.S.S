@@ -6,7 +6,7 @@ Canva Project URL: https://canva.link/knyx8datj3cvjun
 Note: If you want to contribute, you can do so freely on the issues page.
 Also, if you want to request a font website rating change, remember that I or other people might undo your change or change it to something else.
 
-Font Website Stolen Fonts and Suspicious System (FWSFSS)
+Font Website Stolen Fonts and Suspicious System (F.W.S.F.S.S)
 
 The goal of this system making it easier which websites should you use.
 
