@@ -16,9 +16,9 @@ VERY IMPORTANT THING: Websites that allow users to upload fonts are moved up a r
 
 There are 5 base ratings with 4 in between. These are:
 
-N - Minimal
+N - None
 
-NL - Minimal-Low
+NL - None-Low
 
 L - Low
 
