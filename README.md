@@ -1,6 +1,8 @@
 # F.W.S.F.S.S
 A repository for the Font Website Stolen Fonts and Suspicious System.
 
+---
+
 VERY IMPORTANT: I will only allow font websites that are 100% free because it gets confusing.
 
 Canva Project URL: https://canva.link/knyx8datj3cvjun
