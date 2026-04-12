@@ -1,0 +1,38 @@
+Sites recorded:
+Google Fonts: N
+Fontsquirrel: N
+Fontshare: N
+DaFont: NL
+Fontspace: NL
+1001 Fonts: NL
+1001 Free Fonts: NL
+dafontfree.io: L
+FontPalace: LM
+LegionFonts: LM
+Online Fonts: M
+Font.download: M
+FontsArena: M
+Befonts: MH
+Cufon Fonts: MH
+Fontsgeek: MH
+Free Font Download: MH
+Online Web Fonts: MH
+MaisFontes: MH
+Fonnts: H
+Global Fonts: H
+Best Fonts: HX
+FontsHub: X
+
+Rating Pending:
+FFonts
+
+Rating Count:
+N: 3
+NL: 4
+L: 1
+LM: 2
+M: 3
+MH: 6
+H: 2
+HX: 1
+X:1
