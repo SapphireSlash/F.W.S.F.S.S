@@ -7,8 +7,8 @@ Canva Project URL: https://canva.link/knyx8datj3cvjun
 
 (Important if you want to request a font website or change the rating of one) Google Doc URL: https://docs.google.com/document/d/1-OPajsez5E4zHBD5huKF5vWYFmv5lmunjjTw7gKDO-o/edit?usp=sharing
 
-Note: If you want to contribute, you can do so freely on the issues page.
-Also, if you want to request a font website rating change, remember that I or other people might undo your change or change it to something else.
+If you want to contribute, you can do so freely on the issues page.
+Also, if you want to request a font website rating change, remember that I or other people might change it to something else.
 
 ----------------------------------------------------------------
 
