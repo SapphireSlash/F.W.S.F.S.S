@@ -16,7 +16,7 @@ Font Website Stolen Fonts and Suspicious System (F.W.S.F.S.S).
 
 The goal of this system making it easier which websites should you use.
 
-VERY IMPORTANT: Websites that allow users to upload fonts are moved up a rating in case if you where to upload a stolen font. Now, I know there might be moderation, but I put them in a higher rating just in case.
+Note: Websites that allow users to upload fonts are moved up a rating in case if you where to upload a stolen font. Now, I know there might be moderation, but I put them in a higher rating just in case.
 
 There are 5 base ratings with 4 in between. These are:
 
