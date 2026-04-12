@@ -10,13 +10,14 @@ Canva Project URL: https://canva.link/knyx8datj3cvjun
 If you want to contribute, you can do so freely on the issues page.
 Also, if you want to request a font website rating change, remember that I or other people might change it to something else.
 
+Note: Websites that allow users to upload fonts are moved up a rating in case if you where to upload a stolen font. Now, I know there might be moderation, but I put them in a higher rating just in case.
+
+
 ---
 
 Font Website Stolen Fonts and Suspicious System (F.W.S.F.S.S).
 
 The goal of this system making it easier which websites should you use.
-
-Note: Websites that allow users to upload fonts are moved up a rating in case if you where to upload a stolen font. Now, I know there might be moderation, but I put them in a higher rating just in case.
 
 ---
 
