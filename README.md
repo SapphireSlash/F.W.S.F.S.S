@@ -1,5 +1,5 @@
-# F.W.S.F.S.S
-A repository for the Font Website Stolen Fonts and Suspicious System.
+# F.W.S.F.S
+A repository for the Font Website Stolen Fonts System.
 
 ---
 
@@ -16,7 +16,7 @@ Note: Websites that allow users to upload fonts are moved up a rating in case if
 
 ---
 
-Font Website Stolen Fonts and Suspicious System (F.W.S.F.S.S).
+Font Website Stolen Fonts System (F.W.S.F.S).
 
 The goal of this system making it easier which websites should you use.
 
