@@ -46,4 +46,4 @@ X - Extreme
 
 # How this came to be
 
-I've always saw those font websites that host pirated commercial fonts like Helvetica or Futura. Then around early to mid March of 2026, I was thinking of a rating system for font websites in the style of rating systems like the E.S.R.B or movie ratings, and by late March of that year, I had made a Canva presentation and older than that a text file and on April 8, 2026, I made this repository.
+I've always saw those font websites that host pirated paid fonts like Helvetica or Futura. Then around early to mid March of 2026, I was thinking of a rating system for font websites in the style of rating systems like the E.S.R.B or movie ratings, and by late March of that year, I had made a Canva presentation and older than that a text file and on April 8, 2026, I made this repository.
