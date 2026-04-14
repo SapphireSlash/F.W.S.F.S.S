@@ -10,7 +10,7 @@ VERY IMPORTANT: I will only allow font websites that are 100% free because it ge
 # (Important) How to contribute
 
 If you want to contribute, you can do so freely on the issues page.
-When you contribute the rerating of a font website, I might reject your request, and even if I do there's a chance later that I or another person could change it to something else.
+When you suggest the rerating of a font website, I might reject your request, and even if I do there's a chance later that I or another person could change it to something else.
 
 (Important) Google Doc URL (for font website list): https://docs.google.com/document/d/1-OPajsez5E4zHBD5huKF5vWYFmv5lmunjjTw7gKDO-o/edit?usp=sharing
 
