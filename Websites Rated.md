@@ -1,4 +1,4 @@
-# Font Websites Rated
+# Websites Rated
 
 Google Fonts: N
 
