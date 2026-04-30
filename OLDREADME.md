@@ -1,0 +1,36 @@
+# F.W.S.F.S
+A repository for the Font Website Stolen Fonts System.
+
+The goal of this system making it easier which websites should you use.
+
+VERY IMPORTANT: I will only allow font websites that are 100% free because it gets confusing when you add paid websites (especially half paid, half free font websites).
+
+---
+
+# Ratings
+
+There are 5 base ratings with 4 in between. These are:
+
+N - None
+
+NL - None-Low
+
+L - Low
+
+LM - Low-Medium
+
+M - Medium
+
+MH - Medium-High
+
+H - High
+
+HX - High-Extreme
+
+X - Extreme
+
+---
+
+# How this came to be
+
+I've always saw those font websites that host pirated paid fonts like Helvetica or Futura. Then around early to mid March of 2026, I was thinking of a rating system for font websites in the style of rating systems like the E.S.R.B or movie ratings, and by late March of that year, I had made a Canva presentation and older than that a text file and on April 8, 2026, I made this repository.
