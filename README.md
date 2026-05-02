@@ -10,7 +10,7 @@ F.W.S.F.S Page: https://sapphireslash.neocities.org/fwsfs
 
 ---
 
-# To contribute
+# (Important) To contribute
 
 If you want to contribute, you can do so freely on the issues page. When you suggest the rerating of a font website, I might reject your request, and even if I do there's a chance that later I or another person could change it to something else.
 
