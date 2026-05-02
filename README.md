@@ -4,7 +4,7 @@ A repository for the Font Website Stolen Fonts System.
 
 The goal of this system making it easier which websites should you use.
 
-VERY IMPORTANT: I will only allow font websites that are 100% free because it gets confusing when you add paid websites (especially half paid, half free font websites).
+**VERY IMPORTANT**: I will only allow font websites that are 100% free because it gets confusing when you add paid websites (especially half paid, half free font websites).
 
 F.W.S.F.S Page: https://sapphireslash.neocities.org/fwsfs
 
@@ -14,7 +14,7 @@ F.W.S.F.S Page: https://sapphireslash.neocities.org/fwsfs
 
 If you want to contribute, you can do so freely on the issues page. When you suggest the rerating of a font website, I might reject your request, and even if I do there's a chance that later I or another person could change it to something else.
 
-(Important) Google Doc URL (for font website list): https://docs.google.com/document/d/1-OPajsez5E4zHBD5huKF5vWYFmv5lmunjjTw7gKDO-o/edit?usp=sharing
+**(Important)** Google Doc URL (for font website list): https://docs.google.com/document/d/1-OPajsez5E4zHBD5huKF5vWYFmv5lmunjjTw7gKDO-o/edit?usp=sharing
 
 Canva Project URL (for charts): https://canva.link/knyx8datj3cvjun
 
