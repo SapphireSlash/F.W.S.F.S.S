@@ -15,4 +15,4 @@ assignees: ''
 (Rating)
 
 **Remove this line and the one below**
-By submitting an issue you give me the authority to change the rating of your website.
+By submitting an issue you give me the authority to change the rating of the website you requested.
