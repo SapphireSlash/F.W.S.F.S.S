@@ -1,7 +1,7 @@
 ---
 name: Font Website Request
 about: Request a font website to be added.
-title: Font Website Request
+title: Add (Font Website Name)
 labels: Font Website Request
 assignees: ''
 

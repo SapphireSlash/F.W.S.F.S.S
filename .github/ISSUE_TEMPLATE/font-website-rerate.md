@@ -1,7 +1,7 @@
 ---
 name: Font Website Rerate
 about: Change the rating of a font website.
-title: Font Website Rerate
+title: Rerate (Font Website Name)
 labels: Font Website Rerate
 assignees: ''
 
